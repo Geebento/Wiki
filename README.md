@@ -1,7 +1,7 @@
 # Wiki
 适用于Geebento的知识库
 
-### [置顶 Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
+###### [置顶 Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
 
 #### 编码规范
 1. [阮一峰ES6编码规范](http://es6.ruanyifeng.com/#docs/style)
@@ -14,7 +14,7 @@
 
 #### 博客推荐
 1. [Harttle 大咖](http://harttle.land)
-2.
+
 
 #### 其他
 1. [看云文档](https://www.kancloud.cn/@kancloud)
