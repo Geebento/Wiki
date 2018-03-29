@@ -1,5 +1,5 @@
 # Wiki
-适用于Geebento的知识库
+p 适用于Geebento的知识库
 
 [置顶 Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
 
